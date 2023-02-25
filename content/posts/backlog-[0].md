@@ -38,7 +38,11 @@ l'association pour participer a sa creation.
 Des Status sont ecrits `LIENS TODO` et une secondes presentation au etudiants est donnees
 dans la salle "Fondation" du campus de 42 Lausanne. Les etudiants presents ont pu 
 repondre a un questionnaire visant a connaitre leurs attentent vis-a-vis de la JE.
+`TODO : ajouter tout ce qu'on a fait jusque la`
 
 ### Demain
-`TODO : roadmap`
+En pleine phase de creation, il est important de garder un cap, une direction qui
+nous permet d'avancer.
+Mardi dernier avec Isabelle et Josh, nous avons etabli la roadmap de la creation de l'association.
+
 
