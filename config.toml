@@ -1,4 +1,5 @@
 baseURL = 'https://junior-42lausanne.github.io/Blog/'
+absURL = baseURL
 languageCode = 'fr-ch'
 title = 'Junior 42 Lausanne - le blog'
 theme = 'paper'
