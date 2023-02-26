@@ -1,4 +1,16 @@
 baseURL = 'https://junior-42lausanne.github.io/Blog/'
 languageCode = 'fr-ch'
 title = 'JE42 Lausanne - Blog'
-theme = 'paper'
+theme = 'monochrome'
+
+[[menu.navbar]]
+identifier = "Posts"
+name = "Posts"
+title = "Posts"
+url = "/posts/"
+
+[[menu.navbar]]
+identifier = "PVs"
+name = "PVs"
+title = "PVs"
+url = "/Pvs/"
